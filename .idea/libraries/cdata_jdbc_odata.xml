@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="cdata.jdbc.odata">
+    <CLASSES>
+      <root url="jar://C:/Program Files/CData/CData JDBC Driver for OData 2018J/lib/cdata.jdbc.odata.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
